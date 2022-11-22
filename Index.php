@@ -35,3 +35,4 @@ Run example »
 <a href="C:\wamp64\www\Projects\Page1.php">click here</a>
 </body> 
 </html> 
+/* footer comment added */
